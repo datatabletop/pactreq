@@ -66,7 +66,7 @@
     ]
   },
   {
-    "typeName": "装修类服务",
+    "typeName": "装修服务",
     "menuContent": [
       {
         "name": "砸墙",
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "typeName": "维修类服务",
+    "typeName": "维修服务",
     "menuContent": [
       {
         "name": "疏通下水管道",
