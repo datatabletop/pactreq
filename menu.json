@@ -1,0 +1,102 @@
+﻿[
+  {
+    "typeName": "家政服务",
+    "menuContent": [
+      {
+        "name": "扫除",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 15,
+        "numb": 0
+      },
+      {
+        "name": "擦玻璃",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 10,
+        "numb": 0
+      },
+      {
+        "name": "清洗排油烟机",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 11,
+        "numb": 0
+      },
+      {
+        "name": "磨菜刀",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 32,
+        "numb": 0
+      }
+    ]
+  },
+  {
+    "typeName": "配套服务",
+    "menuContent": [
+      {
+        "name": "送罐",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 9,
+        "numb": 0
+      },
+      {
+        "name": "送水",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 21,
+        "numb": 0
+      },
+      {
+        "name": "送奶",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 50,
+        "numb": 0
+      }
+    ]
+  },
+  {
+    "typeName": "装修类服务",
+    "menuContent": [
+      {
+        "name": "砸墙",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 15,
+        "numb": 0
+      },
+      {
+        "name": "力工",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 12,
+        "numb": 0
+      }
+    ]
+  },
+  {
+    "typeName": "维修类服务",
+    "menuContent": [
+      {
+        "name": "疏通下水管道",
+        "src": "https://raw.githubusercontent.com/datatabletop/pactreq/gh-pages/tancheng.jpg",
+        "sales": 22,
+        "rating": 3,
+        "price": 4,
+        "numb": 0
+      }
+    ]
+  }
+]

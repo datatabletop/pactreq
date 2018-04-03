@@ -1,0 +1,77 @@
+﻿{
+  "success": true,
+  "data": {
+    "restaurant": [
+      {
+        "name": "宝膳堂",
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "star": 4.5,
+        "sales": 641,
+        "initial_price": 0,
+        "distribution_price": 0,
+        "distance": "156m",
+        "time": 33
+      },
+      {
+        "name": "服务商家1",
+        "star": 4.5,
+        "sales": 731,
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "initial_price": 15,
+        "distribution_price": 0,
+        "distance": "1.3km",
+        "time": 52
+      },
+      {
+        "name": "服务商家1",
+        "star": 5,
+        "sales": 1161,
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "initial_price": 20,
+        "distribution_price": 0,
+        "distance": "1.5km",
+        "time": 30
+      },
+      {
+        "name": "服务商家2",
+        "star": 4,
+        "sales": 330,
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "initial_price": 50,
+        "distribution_price": 3,
+        "distance": "3.3km",
+        "time": 56
+      },
+      {
+        "name": "服务商家3",
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "star": 0,
+        "sales": 39,
+        "initial_price": 35,
+        "distribution_price": 3,
+        "distance": "3.1km",
+        "time": 44
+      },
+      {
+        "name": "服务商家4",
+        "star": 0,
+        "sales": 24,
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "initial_price": 30,
+        "distribution_price": 1,
+        "distance": "2.6km",
+        "time": 44
+      },
+      {
+        "name": "服务商家5",
+        "star": 4.5,
+        "sales": 37,
+        "src": "http://www.goodidc.net/demojson/tancheng.jpg",
+        "initial_price": 58,
+        "distribution_price": 0,
+        "distance": "6.8km",
+        "time": 49
+      }
+    ]
+  }
+}
